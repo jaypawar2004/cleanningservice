@@ -80,7 +80,7 @@ export default function Footer() {
 
         {/* Bottom Section: Copyright */}
         <div className="border-t border-blue-500/50 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-blue-200">
-          <p>© 2025 Clino Inc. All rights reserved.</p>
+          <p>© 2025 ByteWings - Technology  All rights reserved.</p>
           <div className="flex gap-6">
             <span className="cursor-pointer hover:text-white">Privacy Policy</span>
             <span className="cursor-pointer hover:text-white">Terms of Service</span>
